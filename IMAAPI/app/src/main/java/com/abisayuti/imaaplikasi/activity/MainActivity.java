@@ -22,14 +22,9 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
+
 
 public class MainActivity extends AppCompatActivity {
-
-    @BindView(R.id.pdFragmentSearch)
-    ProgressBar pdFragmentSearch;
     @BindView(R.id.edtSearch)
     TextInputEditText edtSearch;
     @BindView(R.id.btnSearch)

@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<resources></resources>
+<resources>
+    <dimen name="isi10dp">10dp</dimen>
+    <dimen name="isi20dp">20dp</dimen>
+    <dimen name="isi100dp">100dp</dimen>
+    <dimen name="isi150dp">150dp</dimen>
+    <dimen name="isi15dp">15dp</dimen>
+</resources>
