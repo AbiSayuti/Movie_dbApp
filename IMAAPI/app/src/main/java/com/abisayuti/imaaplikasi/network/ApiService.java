@@ -12,6 +12,5 @@ public interface ApiService {
                                     @Query("language") String language,
                                     @Query("query") String query);
 
-//    Call<ResponseSearch> searchFilm(String apiKey, String language, String query);
 
 }
